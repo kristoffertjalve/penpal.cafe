@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) Carrd Inc. All rights reserved. All logos and trademarks are property of their respective owners. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" display="none" width="0" height="0">
+	<symbol id="plus-light" viewBox="0 0 40 40"><path d="M34.5,21.6H21.6v12.9c0,0.3-0.2,0.5-0.5,0.5h-2.2c-0.3,0-0.5-0.2-0.5-0.5V21.6H5.5c-0.3,0-0.5-0.2-0.5-0.5v-2.2 c0-0.3,0.2-0.5,0.5-0.5h12.9V5.5c0-0.3,0.2-0.5,0.5-0.5h2.2c0.3,0,0.5,0.2,0.5,0.5v12.9h12.9c0.3,0,0.5,0.2,0.5,0.5v2.2 C35,21.4,34.8,21.6,34.5,21.6z"/></symbol>
+	<symbol id="minus-light" viewBox="0 0 40 40"><path d="M5,18.9v2.2c0,0.3,0.2,0.5,0.5,0.5h28.9c0.3,0,0.5-0.2,0.5-0.5v-2.2c0-0.3-0.2-0.5-0.5-0.5H5.5C5.2,18.4,5,18.6,5,18.9z"/></symbol>
+</svg>
